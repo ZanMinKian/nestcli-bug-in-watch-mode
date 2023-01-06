@@ -1,0 +1,24 @@
+{
+  "name": "nestcli-bug-in-watch-mode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZanMinKian/nestcli-bug-in-watch-mode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZanMinKian/nestcli-bug-in-watch-mode/issues"
+  },
+  "homepage": "https://github.com/ZanMinKian/nestcli-bug-in-watch-mode#readme",
+  "devDependencies": {
+    "@nestjs/cli": "^9.1.8",
+    "@types/node": "^18.11.18",
+    "@zanminkian/tsconfig": "^0.1.3"
+  }
+}
